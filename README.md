@@ -1,4 +1,4 @@
-# Sales-AnalyticS
+# Sales-Analytics
 
 ## Sales Report :
 
@@ -15,7 +15,7 @@
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-## Technical & Soft Skills:
+## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal years.
